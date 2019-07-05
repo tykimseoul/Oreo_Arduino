@@ -1,3 +1,13 @@
+.pio
+.pioenvs
+.piolibdeps
+CMakeListsPrivate.txt
+.idea/
+cmake-build-debug/
+lib/
+test/
+.travis.yml
+
 # Prerequisites
 *.d
 
