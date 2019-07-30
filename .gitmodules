@@ -1,0 +1,3 @@
+[submodule "OreoArduinoLib"]
+	path = OreoArduinoLib
+	url = https://github.com/jwkim98/OreoArduinoLib.git
