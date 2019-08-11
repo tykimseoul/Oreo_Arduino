@@ -2,7 +2,7 @@
 // Created by 김태윤 on 2019-07-06.
 //
 
-#include "../lib/Servo-master/src/Servo.h"
+#include "../lib/Servo/src/Servo.h"
 #include "../../../.platformio/packages/framework-arduinoavr/cores/arduino/USBAPI.h"
 
 class Motor {
