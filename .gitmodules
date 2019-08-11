@@ -1,3 +1,9 @@
 [submodule "OreoArduinoLib"]
 	path = OreoArduinoLib
 	url = https://github.com/jwkim98/OreoArduinoLib.git
+[submodule "lib/FastLED"]
+	path = lib/FastLED
+	url = https://github.com/FastLED/FastLED.git
+[submodule "lib/Servo"]
+	path = lib/Servo
+	url = https://github.com/arduino-libraries/Servo.git
